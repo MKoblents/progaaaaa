@@ -4,3 +4,6 @@
 [submodule "p_lab_3"]
 	path = p_lab_3
 	url = https://github.com/MKoblents/p_lab_3
+[submodule "p_lab_2"]
+	path = p_lab_2
+	url = https://github.com/MKoblents/p_lab_2
