@@ -1,12 +1,16 @@
 [submodule "p_lab_1"]
 	path = p_lab_1
 	url = https://github.com/MKoblents/p_lab_1
+	branch = main
 [submodule "p_lab_3"]
 	path = p_lab_3
 	url = https://github.com/MKoblents/p_lab_3
+	branch = main
 [submodule "p_lab_2"]
 	path = p_lab_2
 	url = https://github.com/MKoblents/p_lab_2
+	branch = main
 [submodule "p_lab_5"]
 	path = p_lab_5
 	url = https://github.com/MKoblents/p_lab_5
+	branch = main
